@@ -62,7 +62,11 @@ A 16-week intensive development bootcamp, with emphasis on:
 
 **Zyper** (October 2017 - September 2018)    
 *Client and Community Relations Manager (prev. Community Manager)*  
-•	Responsible for managing my own community campaigns: identifyied clients and candidates, database management, cold calls/emails, created all sales materials and proposals for client interaction, ensured creation of desirable UGC, hit all KPIs and ensure good ROI•	Created and tested all communications, inc. newsletter design (HTML and CSS, also PhotoShop) and copy, app notifications and email communications•	Coordinated activities and events planning, including purchasing supplies given budget and time constraints•	Strategised and developed ways to make our community outreach process more effective; helmed the ambassador program as well as conducted deep data analysis (including psychographic) in areas where we wanted to utilise a deeper demographic understanding in order to pioneer the concept of community marketing•	Managed all social media channels, copywriting, familiar with tools such as Hootsuite, Planoly, Buffer etc.
+•	Responsible for managing my own community campaigns: identifyied clients and candidates, database management, cold calls/emails, created all sales materials and proposals for client interaction, ensured creation of desirable UGC, hit all KPIs and ensure good ROI
+•	Created and tested all communications, inc. newsletter design (HTML and CSS, also PhotoShop) and copy, app notifications and email communications
+•	Coordinated activities and events planning, including purchasing supplies given budget and time constraints
+•	Strategised and developed ways to make our community outreach process more effective; helmed the ambassador program as well as conducted deep data analysis (including psychographic) in areas where we wanted to utilise a deeper demographic understanding in order to pioneer the concept of community marketing
+•	Managed all social media channels, copywriting, familiar with tools such as Hootsuite, Planoly, Buffer etc.
 
 **Victoria Selection & Search (Madrid)** (May 2016 - September 2016)   
 *PA/Social Media Intern/Recruiter*  
