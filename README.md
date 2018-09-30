@@ -37,8 +37,6 @@ A 16-week intensive development bootcamp, with emphasis on:
 - Effective collaboration
 - Test driven development
 - Fostering a curiosity for code and languages
-- Agile
-
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
