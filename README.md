@@ -35,12 +35,11 @@ I have already described just a few of the projects I worked on to make sure the
 A 16-week intensive development bootcamp, with emphasis on:
 
 - Effective collaboration
-- Test driven development
 - Fostering a curiosity for code and languages
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Rails, JavaScript, Node.js, React
+- RSpec, Jasmine, Cypress
 
 #### University of Edinburgh (2013-2017)
 
