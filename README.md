@@ -1,6 +1,6 @@
 ## Chloe Verity
 
-Junior Developer
+Junior Full Stack Developer
 
 Recent graduate in modern languages, now learning software prose.
 
@@ -30,16 +30,16 @@ I have already described just a few of the projects I worked on to make sure the
 
 ## Education
 
-#### Makers Academy (September 2018 - January 2018)
+#### Makers Academy (September 2018 - January 2019)
 
 A 16-week intensive development bootcamp, with emphasis on:
 
 - Effective collaboration
 - Fostering a curiosity for code and languages
-- OOP, TDD, MVC, DDD
+- OOP, TDD, MVC
 - Agile/XP
 - Ruby, Rails, JavaScript, Node.js, React
-- RSpec, Jasmine, Cypress
+- RSpec, Jasmine, Cypress, Enzyme, Jest, Zombie
 
 #### University of Edinburgh (2013-2017)
 
